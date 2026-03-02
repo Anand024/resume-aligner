@@ -1,0 +1,36 @@
+JOHN DOE
+Email: john.doe@email.com | Phone: (555) 123-4567 | LinkedIn: linkedin.com/in/johndoe
+Location: San Francisco Bay Area, CA
+
+PROFESSIONAL SUMMARY
+Experienced software engineer with expertise in AI/ML, full-stack development, and cloud technologies. 
+Proven track record of building scalable applications and working with modern frameworks.
+
+TECHNICAL SKILLS
+• Programming Languages: Python, JavaScript, TypeScript, Java
+• AI/ML: Machine Learning, Deep Learning, NLP
+• Frameworks: React, Node.js, Flask, FastAPI
+• Cloud: AWS, Docker, Kubernetes
+• Databases: PostgreSQL, MongoDB, Redis
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | Tech Company | 2020 - Present
+• Developed and deployed machine learning models for production systems
+• Built RESTful APIs and microservices using Python and Node.js
+• Collaborated with cross-functional teams to deliver high-quality software
+• Optimized application performance and reduced latency by 30%
+
+Software Engineer | Startup Inc | 2018 - 2020
+• Designed and implemented web applications using React and Node.js
+• Worked on data processing pipelines and ETL processes
+• Participated in code reviews and maintained coding standards
+
+EDUCATION
+Bachelor of Science in Computer Science
+University Name | 2014 - 2018
+• Relevant Coursework: Data Structures, Algorithms, Machine Learning
+
+PROJECTS
+• AI Chatbot: Built a conversational AI using NLP techniques
+• E-commerce Platform: Full-stack application with React and Node.js
